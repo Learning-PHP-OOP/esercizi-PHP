@@ -9,13 +9,14 @@
     $miaVar = "Pippo";
     $miavar = "Topolino";
   ?>
- 
+
  </head>
  <body>
 
   <h1>
    I miei amici sono :
    <?php echo $miavar." e ".$miaVar; ?>
-
+  </h1>
+  
  </body>
 </html>
